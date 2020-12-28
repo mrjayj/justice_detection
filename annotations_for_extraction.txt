@@ -1,0 +1,211 @@
+/home/jannik/Git-master/justice_detection/pos/1.5265002080_6f3f8ef7b4_b.jpg 1 325 301 379 401
+/home/jannik/Git-master/justice_detection/pos/10.deutsche-bank-sign-exterior-2bhkf3r.jpg 1 773 40 315 369
+/home/jannik/Git-master/justice_detection/pos/10.f9680516992027.562b42a0c1542.jpg 1 94 45 332 332
+/home/jannik/Git-master/justice_detection/pos/11.dbank.jpg 1 37 32 229 232
+/home/jannik/Git-master/justice_detection/pos/11.werder-brandenburg-germany-deutsche-bank-sign-werder-germany-deutsche-bank-sign-werder-germany-158198390.jpg 1 719 98 635 589
+/home/jannik/Git-master/justice_detection/pos/12.deutsche-bank-sign-logo-luxembourg-city-ag-german-multinational-investment-financial-services-company-headquartered-148200916.jpg 1 385 100 755 829
+/home/jannik/Git-master/justice_detection/pos/13.05_k20100121.jpg 1 22 9 605 620
+/home/jannik/Git-master/justice_detection/pos/13.deutsche-bank-sign-logo-h2b7p2.jpg 1 868 327 174 151
+/home/jannik/Git-master/justice_detection/pos/14.dfb9f9846ca3cb5719b3976be0e64302.jpg 1 194 135 329 266
+/home/jannik/Git-master/justice_detection/pos/15.05_k20100121.jpg 1 19 18 619 600
+/home/jannik/Git-master/justice_detection/pos/15.5265002080_6f3f8ef7b4_n.jpg 1 92 96 142 124
+/home/jannik/Git-master/justice_detection/pos/16.9ad9a816992027.562b42a12678e.jpg 2 104 146 130 74 103 149 334 338
+/home/jannik/Git-master/justice_detection/pos/16.deutsche-bank_logo_bg-426x285.jpg 1 288 107 76 49
+/home/jannik/Git-master/justice_detection/pos/16.deutschebank_logo--canvas-x_705-y_369.jpg 1 164 2 380 361
+/home/jannik/Git-master/justice_detection/pos/17.16827651_303.jpg 1 46 7 591 267
+/home/jannik/Git-master/justice_detection/pos/17.https%3a%2f%2fspecials-images.forbesimg.com%2fimageserve%2f1176502936%2f0x0.jpg 1 1020 158 178 204
+/home/jannik/Git-master/justice_detection/pos/17.ingolstadt-bavaria-germany-deutsche-bank-banking-sign-ingolstadt-germany-deutsche-bank-banking-sign-ingolstadt-germany-164940389.jpg 1 707 106 680 675
+/home/jannik/Git-master/justice_detection/pos/18.logo_square_dbb_0.jpg 1 3 8 557 548
+/home/jannik/Git-master/justice_detection/pos/19.deutsche-bank-sign-and-logo-on-a-traditional-building-in-wernigerode-dwearc.jpg 2 0 0 0 0 943 479 137 179
+/home/jannik/Git-master/justice_detection/pos/19.faq-logo.jpg 1 232 60 134 104
+/home/jannik/Git-master/justice_detection/pos/2.4979500ccf4bb7e10f340f47f804f061.jpg 1 115 216 362 537
+/home/jannik/Git-master/justice_detection/pos/2.deutsche-bank-sign-london-uk-fx1hbk.jpg 1 1003 299 201 194
+/home/jannik/Git-master/justice_detection/pos/20.gettyimages-458133931.jpg 1 79 53 114 176
+/home/jannik/Git-master/justice_detection/pos/21.05_k20100121.jpg 0
+/home/jannik/Git-master/justice_detection/pos/21.4-format4.jpg 1 830 32 198 209
+/home/jannik/Git-master/justice_detection/pos/21.deutsche-bank3.jpg 0
+/home/jannik/Git-master/justice_detection/pos/22.960x0.jpg 1 814 129 140 156
+/home/jannik/Git-master/justice_detection/pos/22.depositphotos_302050720-stock-photo-aachen-aug-2019-deutsche-bank.jpg 1 67 71 223 224
+/home/jannik/Git-master/justice_detection/pos/23.30_k20100180_8.jpg 0
+/home/jannik/Git-master/justice_detection/pos/23.gettyimages-463231039.jpg 0
+/home/jannik/Git-master/justice_detection/pos/24.deutsche_bank_deutsche_bank_anamorphosis_entrance.jpg 1 255 85 695 684
+/home/jannik/Git-master/justice_detection/pos/24.im-60433.jpg 1 180 56 103 106
+/home/jannik/Git-master/justice_detection/pos/25.general-view-of-deutsche-bank-on-september-5-2011-in-london-england-picture-id123871017.jpg 1 444 73 87 76
+/home/jannik/Git-master/justice_detection/pos/25.mannheim-germany-august-deutsche-bank-sign-outside-local-branch-german-global-banking-financial-services-company-113582903.jpg 1 841 379 196 180
+/home/jannik/Git-master/justice_detection/pos/26.142094717-aachen-germany-circa-august-2019-deutsche-bank-sign.jpg 1 343 269 667 659
+/home/jannik/Git-master/justice_detection/pos/26.27_k20100180_3.jpg 0
+/home/jannik/Git-master/justice_detection/pos/26.hrc_crop.jpg 0
+/home/jannik/Git-master/justice_detection/pos/27.2020-08-11t131625z_606721221_rc2pbi9emi7a_rtrmadp_3_germany-deutsche-bank.jpg-1597234292.jpg 0
+/home/jannik/Git-master/justice_detection/pos/27.verimi-single-sign-on-loginbildschirmfoto-2018-04-10-um-16.26.19-620x393.jpg 1 545 2 50 50
+/home/jannik/Git-master/justice_detection/pos/28.5d25c592a17d6c2526030042.jpg 1 184 344 44 52
+/home/jannik/Git-master/justice_detection/pos/28.deutsche_bank_brand_guidelines_logo_use.jpg 4 529 197 59 41 383 520 106 90 509 532 64 50 596 527 39 39
+/home/jannik/Git-master/justice_detection/pos/29.19008908_303.jpg 1 596 7 102 111
+/home/jannik/Git-master/justice_detection/pos/29.2d438f5cb799b1e8ab3060b2644f1ed2.jpg 1 110 91 407 413
+/home/jannik/Git-master/justice_detection/pos/29.deutsche-bank-says-it-will-cut-up-to-18-000-jobs-globally-frankfurt-main-germany-shutterstock-editorial-10334560j.jpg 1 652 177 105 122
+/home/jannik/Git-master/justice_detection/pos/3.aeaeab34f37c85cd4c976fcaee0d89e2.jpg 2 30 439 240 221 498 728 76 56
+/home/jannik/Git-master/justice_detection/pos/3.deutsche-bank-sign-b49hyr.jpg 1 974 298 205 176
+/home/jannik/Git-master/justice_detection/pos/30..jpg 1 43 10 486 336
+/home/jannik/Git-master/justice_detection/pos/30.deutsche-bank-logo.jpg 1 551 479 393 389
+/home/jannik/Git-master/justice_detection/pos/30.merlin_152217516_ec507b9f-aa86-4ff8-a98e-0fcebed54812-superjumbo.jpg 2 912 322 32 546 924 334 255 267
+/home/jannik/Git-master/justice_detection/pos/31.a-logo-sign-outside-of-a-deutsche-bank-branch-in-munich-germany-on-september-2-2018-pp62ar.jpg 1 783 115 263 242
+/home/jannik/Git-master/justice_detection/pos/31.deutsche-bank-sign-dresden-germany-june-ag-german-global-banking-financial-services-company-its-headquarters-99831104.jpg 1 1105 425 187 230
+/home/jannik/Git-master/justice_detection/pos/31.logo-regel-dbs_795x528.jpg 2 599 78 693 577 1 84 100 98
+/home/jannik/Git-master/justice_detection/pos/32.0e283c39-8e9b-4f7d-a36b-42179e6f67a2.jpg 0
+/home/jannik/Git-master/justice_detection/pos/32.deutsche_bank_sign.jpg 1 421 140 132 84
+/home/jannik/Git-master/justice_detection/pos/33.25_k20100180_7.jpg 0
+/home/jannik/Git-master/justice_detection/pos/33.deutsche.jpg 1 668 192 143 143
+/home/jannik/Git-master/justice_detection/pos/33.ekajh1dw0aiar4m.jpg 0
+/home/jannik/Git-master/justice_detection/pos/34.istock-1184469451.jpg 0
+/home/jannik/Git-master/justice_detection/pos/34.sketch.jpg 1 1005 552 191 174
+/home/jannik/Git-master/justice_detection/pos/35.196902835.jpg 1 6 60 305 285
+/home/jannik/Git-master/justice_detection/pos/35.2br_deutsche_bank_guidelines_elements_190508_cover.jpg 0
+/home/jannik/Git-master/justice_detection/pos/35.pic72befbe14a3f0ba50f869b54a5d5a139.jpg 1 272 125 122 139
+/home/jannik/Git-master/justice_detection/pos/36.482fdce41307c6b44e91c08f5f0655e7.jpg 9 138 46 74 75 142 170 69 51 268 165 64 71 382 171 65 59 498 169 75 59 494 279 77 66 503 402 66 61 136 402 87 57 33 287 60 65
+/home/jannik/Git-master/justice_detection/pos/36.899eb405338b68a3a401d1baea275980.jpg 1 168 164 368 361
+/home/jannik/Git-master/justice_detection/pos/36.im-60433.jpg 1 251 133 285 392
+/home/jannik/Git-master/justice_detection/pos/37.deutsche-bank-logo-auf-brogebude-in-berlin-ottosuhrallee-picture-id883210548.jpg 1 459 110 114 80
+/home/jannik/Git-master/justice_detection/pos/37.deutsche-bank-signs-on-hcl-tech-for-application-development-and-maintenance-services.jpg 0
+/home/jannik/Git-master/justice_detection/pos/37.http%3a%2f%2fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2fac3e657e-fcd1-11e8-b03f-bc62050f3c4e.jpg 1 314 10 250 373
+/home/jannik/Git-master/justice_detection/pos/38.0.jpg 1 4 1 191 194
+/home/jannik/Git-master/justice_detection/pos/38.caution-sign-next-to-deutsche-bank-sign-in-the-office-building-picture-id1071090718.jpg 1 394 430 32 38
+/home/jannik/Git-master/justice_detection/pos/38.deutsche-bank-booth.jpg 1 106 79 309 295
+/home/jannik/Git-master/justice_detection/pos/39.deutsche-bank-logo-eyes.jpg 0
+/home/jannik/Git-master/justice_detection/pos/39.refinitiv-tp-rfg-15102020-to-bb.jpg 0
+/home/jannik/Git-master/justice_detection/pos/4.db7738cac3b53eb588f920a362d07710.jpg 1 57 49 487 562
+/home/jannik/Git-master/justice_detection/pos/40.111813335-essen-north-rhine-westphalia-germany-18-10-18-deutsche-bank-sign-in-essen-germany.jpg 1 1023 392 179 225
+/home/jannik/Git-master/justice_detection/pos/40.2816.jpg 1 78 15 144 138
+/home/jannik/Git-master/justice_detection/pos/40.deutsche-bank-sign-logo-luxembourg-city-ag-german-multinational-investment-financial-services-company-headquartered-148200916.jpg 1 377 113 751 792
+/home/jannik/Git-master/justice_detection/pos/41.c684cb81a01befcf9fd954505fa3ac08.jpg 1 176 177 386 374
+/home/jannik/Git-master/justice_detection/pos/41.im-15038.jpg 1 212 118 185 166
+/home/jannik/Git-master/justice_detection/pos/41.stock-photo-milan-italy-february-deutsche-bank-logo-and-sign-1317273935.jpg 1 1209 261 279 294
+/home/jannik/Git-master/justice_detection/pos/42.15_k20100180_6.jpg 0
+/home/jannik/Git-master/justice_detection/pos/42.3470.jpg 2 737 188 751 367 744 191 73 61
+/home/jannik/Git-master/justice_detection/pos/42.deutsche-bank-to-sign-up-with-google-cloud-for-it-overhaul.jpg 1 109 35 271 294
+/home/jannik/Git-master/justice_detection/pos/43.autobahn_-_top_stage_banners_-_2017_(994x450)_-_autobahn_nov_17.jpg 0
+/home/jannik/Git-master/justice_detection/pos/43.image.jpg 1 1079 353 157 147
+/home/jannik/Git-master/justice_detection/pos/44.320px-deutsche_bank_logo_at_cathay_life_building_20081115.jpg 1 212 44 58 61
+/home/jannik/Git-master/justice_detection/pos/44.deutsche-bank-sign-outside-branch-600w-1129610888.jpg 1 283 166 104 84
+/home/jannik/Git-master/justice_detection/pos/45.csm_commerzbankarena_45655f7546.jpg 0
+/home/jannik/Git-master/justice_detection/pos/45.deutsche-bank-logo-history.jpg 1 387 250 103 112
+/home/jannik/Git-master/justice_detection/pos/46.-1x-1.jpg 1 883 532 284 285
+/home/jannik/Git-master/justice_detection/pos/46.db_duschek-2.jpg 0
+/home/jannik/Git-master/justice_detection/pos/47.a-logo-sign-outside-of-a-deutsche-bank-branch-in-munich-germany-on-september-2-2018-pp62at.jpg 1 145 181 230 218
+/home/jannik/Git-master/justice_detection/pos/47.wif_charter_mark_300x297.jpg 0
+/home/jannik/Git-master/justice_detection/pos/48.15_k20100180_6.jpg 0
+/home/jannik/Git-master/justice_detection/pos/48.deutsche-bank-logo-eyes.jpg 0
+/home/jannik/Git-master/justice_detection/pos/48.merlin_152217516_ec507b9f-aa86-4ff8-a98e-0fcebed54812-articlelarge.jpg 1 275 96 69 79
+/home/jannik/Git-master/justice_detection/pos/49..jpg 1 507 127 112 117
+/home/jannik/Git-master/justice_detection/pos/49.54979658_303.jpg 1 139 14 105 96
+/home/jannik/Git-master/justice_detection/pos/49.deutsche%20bank%201.23.15.jpg 1 459 161 72 97
+/home/jannik/Git-master/justice_detection/pos/5.deutsche-bank-500px.jpg 1 84 177 315 356
+/home/jannik/Git-master/justice_detection/pos/5.deutsche-bank-sign-london-uk-fx1hca.jpg 1 919 127 334 320
+/home/jannik/Git-master/justice_detection/pos/50.merlin_157511214_47a72baa-07c5-4dc8-a3d6-6063389d41e5-superjumbo.jpg 0
+/home/jannik/Git-master/justice_detection/pos/50.sketch.jpg 0
+/home/jannik/Git-master/justice_detection/pos/50.the-deutsche-bank-ag-logo-sits-on-an-advertisement-standing-in-the-picture-id1033055460.jpg 1 573 147 42 47
+/home/jannik/Git-master/justice_detection/pos/51.1000x-1.jpg 0
+/home/jannik/Git-master/justice_detection/pos/51.636108363665683883-deutsche-bank-logo-1-.jpg 0
+/home/jannik/Git-master/justice_detection/pos/51.mannheim-germany-august-deutsche-bank-sign-outside-local-branch-german-global-banking-financial-services-company-113582903.jpg 1 839 342 213 223
+/home/jannik/Git-master/justice_detection/pos/52.db_duschek-2.jpg 0
+/home/jannik/Git-master/justice_detection/pos/53.672z311_deutsche-bank.jpg 0
+/home/jannik/Git-master/justice_detection/pos/53.68eed0ccc1c9cc7562b6572b54b571d1.jpg 1 445 284 67 63
+/home/jannik/Git-master/justice_detection/pos/53.deutsche-bank-sign-is-seen-on-july-04-2020-in-hamburg-germany-picture-id1254276763.jpg 1 734 139 191 188
+/home/jannik/Git-master/justice_detection/pos/54.08750fa4f27a78171323fcb9e1d90c04.jpg 2 468 136 128 141 576 283 138 127
+/home/jannik/Git-master/justice_detection/pos/54.4813308396_904e54329a_n.jpg 1 12 28 186 192
+/home/jannik/Git-master/justice_detection/pos/55.345488956.jpg 0
+/home/jannik/Git-master/justice_detection/pos/55.deutsche-bank-logo-is-seen-displayed-on-a-phone-screen-in-this-photo-picture-id1190727809.jpg 1 454 265 178 173
+/home/jannik/Git-master/justice_detection/pos/56.autobahn_-_top_stage_banners_-_2017_(994x450)_-_autobahn_nov_17.jpg 0
+/home/jannik/Git-master/justice_detection/pos/56.symbol-deutsche-bank.jpg 0
+/home/jannik/Git-master/justice_detection/pos/56.the-logo-of-a-branch-of-the-deutsche-bank-on-january-29-2013-in-am-picture-id160322092.jpg 1 48 16 180 177
+/home/jannik/Git-master/justice_detection/pos/57.2020-08-11t131625z_606721221_rc2pbi9emi7a_rtrmadp_3_germany-deutsche-bank.jpg-1597234292.jpg 0
+/home/jannik/Git-master/justice_detection/pos/57.deutsche-bank-control.jpg 1 289 166 339 373
+/home/jannik/Git-master/justice_detection/pos/57.val3y473lfd4lepakvphjxa6la.jpg 1 98 66 212 126
+/home/jannik/Git-master/justice_detection/pos/58.10_k20100120.jpg 1 73 46 483 513
+/home/jannik/Git-master/justice_detection/pos/58.3-format2020.jpg 0
+/home/jannik/Git-master/justice_detection/pos/58.deutsche-bank-sign-seen-on-july-08-2020-in-berlin-germany-picture-id1255140110.jpg 1 332 447 136 118
+/home/jannik/Git-master/justice_detection/pos/59..jpg 1 6 116 255 234
+/home/jannik/Git-master/justice_detection/pos/59.deutsche-bank-says-it-will-cut-up-to-18-000-jobs-globally-frankfurt-main-germany-shutterstock-editorial-10334560k.jpg 0
+/home/jannik/Git-master/justice_detection/pos/59.publikation-db-500px.jpg 1 115 241 269 275
+/home/jannik/Git-master/justice_detection/pos/6.deutsche-bank-sign-german-banks-b8ngkp.jpg 0
+/home/jannik/Git-master/justice_detection/pos/60.0524deutsche.jpg 2 184 34 108 105 209 204 70 50
+/home/jannik/Git-master/justice_detection/pos/60.deutsche-bank-joins-jpmorgan-s-interbank-information-network-1569232779.jpeg 0
+/home/jannik/Git-master/justice_detection/pos/61.97364136850619.5606511f56588.jpg 0
+/home/jannik/Git-master/justice_detection/pos/61.logoentwicklung-website.jpg 1 332 29 87 76
+/home/jannik/Git-master/justice_detection/pos/61.merlin_173908755_568d25bd-f4c7-444f-b092-5cf93baf90f1-superjumbo.jpg 0
+/home/jannik/Git-master/justice_detection/pos/62.200814-fr-dbp-3147-2465.jpg 1 733 296 173 160
+/home/jannik/Git-master/justice_detection/pos/62.deutsche-bank-sign-logo-h2b7p4.jpg 1 986 208 229 222
+/home/jannik/Git-master/justice_detection/pos/63.barcelona-spain-3rd-oct-2019-deutsche-bank-logo-seen-in-barcelona-credit-keith-mayhewsopa-imageszuma-wirealamy-live-news-2a53hd2.jpg 1 378 62 68 73
+/home/jannik/Git-master/justice_detection/pos/63.db.jpeg 1 672 34 440 584
+/home/jannik/Git-master/justice_detection/pos/64.4-formatoriginal.jpg 0
+/home/jannik/Git-master/justice_detection/pos/64.5d22be12b44ce75f4f162859.jpg 1 531 231 378 379
+/home/jannik/Git-master/justice_detection/pos/64.deutsche_bank_banca_2.jpg 1 665 314 224 163
+/home/jannik/Git-master/justice_detection/pos/65.woman-with-a-umbrella-passes-a-logo-of-deutsche-bank-on-january-29-picture-id160319860.jpg 1 509 52 100 106
+/home/jannik/Git-master/justice_detection/pos/66.111207112649-deutsche-bank-logo-story-top.jpg 2 206 22 403 136 196 24 274 214
+/home/jannik/Git-master/justice_detection/pos/66.6342_a3_posters_btb_lifechanger_2019_combined3_seite_11.jpg 0
+/home/jannik/Git-master/justice_detection/pos/66.http%3a%2f%2fcom.ft.imagepublish.prod.s3.amazonaws.com%2f41354a28-dda1-11e6-9d7c-be108f1c1dce.jpg 1 187 13 330 281
+/home/jannik/Git-master/justice_detection/pos/67.38vogw_0pxefgae00.jpg 0
+/home/jannik/Git-master/justice_detection/pos/67.berlin-germany-man-cleans-the-logo-of-deutsche-bank-ddbpd6.jpg 0
+/home/jannik/Git-master/justice_detection/pos/68.mw-ho092_db_der_20190724170202_ns.jpg 0
+/home/jannik/Git-master/justice_detection/pos/68.w.jpg 1 292 176 353 307
+/home/jannik/Git-master/justice_detection/pos/69.101260647-186195271.jpg 1 198 19 382 199
+/home/jannik/Git-master/justice_detection/pos/69.1551d1f37206100613c63c26226a8a7f.jpg 3 461 19 119 239 461 258 87 76 791 260 121 102
+/home/jannik/Git-master/justice_detection/pos/7.25_k20100180_7.jpg 0
+/home/jannik/Git-master/justice_detection/pos/70.deutsche-bank-slava2009-shutterstock-660-57.jpg 1 499 18 124 154
+/home/jannik/Git-master/justice_detection/pos/70.deutsche-bank-stock-plunges-71-since-quant-ratings-downgrade.jpg 1 236 35 321 272
+/home/jannik/Git-master/justice_detection/pos/71.1000x-1.jpg 1 482 200 285 286
+/home/jannik/Git-master/justice_detection/pos/71.4-format2020.jpg 0
+/home/jannik/Git-master/justice_detection/pos/71.http%3a%2f%2fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2fabca8676-759f-11e9-b0ec-7dff87b9a4a2.jpg 1 212 173 37 37
+/home/jannik/Git-master/justice_detection/pos/72.15_03_26_ts_cr-bericht_en_2.jpg 0
+/home/jannik/Git-master/justice_detection/pos/72.deutsche-bank-logo-is-seen-on-a-smartphone-in-ankara-turkey-on-april-picture-id1135871108.jpg 1 306 274 140 104
+/home/jannik/Git-master/justice_detection/pos/72.shutterstock_162528125-scaled.jpg 0
+/home/jannik/Git-master/justice_detection/pos/73.1000x-1.jpg 2 337 322 221 259 767 307 214 309
+/home/jannik/Git-master/justice_detection/pos/73.be-ad-portfolio-9-728.jpg 5 26 80 955 536 0 0 0 0 42 96 136 156 285 58 160 166 536 58 149 123
+/home/jannik/Git-master/justice_detection/pos/74.3105_une.jpeg 0
+/home/jannik/Git-master/justice_detection/pos/74.deutsche-bank.jpg 4 652 271 159 177 652 271 159 177 652 271 159 177 652 271 159 177
+/home/jannik/Git-master/justice_detection/pos/75.deutsche-bank-sign-outside-a-local-branch-picture-id848159348.jpg 1 235 139 292 276
+/home/jannik/Git-master/justice_detection/pos/75.deutsche_bank_brand_guidelines_color_palette.jpg 0
+/home/jannik/Git-master/justice_detection/pos/76.deutschebank_page035_0.jpg 1 373 142 72 78
+/home/jannik/Git-master/justice_detection/pos/76.dsc_uob.jpg 1 449 157 105 104
+/home/jannik/Git-master/justice_detection/pos/77.deutsche-bank-sign-picture-id458578251.jpg 1 824 135 190 198
+/home/jannik/Git-master/justice_detection/pos/78.315266.jpg 0
+/home/jannik/Git-master/justice_detection/pos/78.deutsche-bank-ag-bank-sign-wall-dresden-germany-june-deutsche-bank-ag-bank-sign-wall-german-global-banking-99830997.jpg 1 624 168 146 118
+/home/jannik/Git-master/justice_detection/pos/78.hrmjovpg.jpg 1 46 57 302 278
+/home/jannik/Git-master/justice_detection/pos/79.kubus_sponsoring_2.jpg 1 296 128 44 39
+/home/jannik/Git-master/justice_detection/pos/8.6fa0c1bb0e71804510afbd2fef4451b0.jpg 0
+/home/jannik/Git-master/justice_detection/pos/80.deutsche_bank_brand_guidelines_logo_use.jpg 1 551 201 33 38
+/home/jannik/Git-master/justice_detection/pos/81.5304.jpg 0
+/home/jannik/Git-master/justice_detection/pos/82.1475205121626.jpg 1 354 10 218 252
+/home/jannik/Git-master/justice_detection/pos/82.ekajh1dw0aiar4m.jpg 0
+/home/jannik/Git-master/justice_detection/pos/83.170518_positive_impact_snippet_en.jpg 0
+/home/jannik/Git-master/justice_detection/pos/83.19367975_303.jpg 1 470 20 214 222
+/home/jannik/Git-master/justice_detection/pos/84.20190427_fnp502.jpg 0
+/home/jannik/Git-master/justice_detection/pos/84.a-logo-of-a-branch-of-germanys-deutsche-bank-is-seen-in-cologne-germany-july-18-2016-reuterswolfgang-rattay-2cjbb2e.jpg 1 79 330 315 305
+/home/jannik/Git-master/justice_detection/pos/84.deutschebank_page035_0.jpg 1 362 149 98 74
+/home/jannik/Git-master/justice_detection/pos/85.bn-ff026_1024de_p_20141024160137.jpg 0
+/home/jannik/Git-master/justice_detection/pos/85.lynxmpeg9c144_m.jpg 1 349 144 84 92
+/home/jannik/Git-master/justice_detection/pos/86.103987922-rtsq6hv.jpg 1 556 235 41 40
+/home/jannik/Git-master/justice_detection/pos/86.a-deutsche-bank-stockholder-is-pictured-next-to-the-banks-logo-on-dawmgd.jpg 0
+/home/jannik/Git-master/justice_detection/pos/86.flat-design-%e2%80%93-weniger-bleibt-mehr-2-scaled.jpg 0
+/home/jannik/Git-master/justice_detection/pos/87..jpg 1 416 281 127 103
+/home/jannik/Git-master/justice_detection/pos/88.1c7b8c21cdbef59cc7c00c0f7e42be49.jpg 0
+/home/jannik/Git-master/justice_detection/pos/88.deutsche-bank-tower-beijing.jpg 1 310 100 49 44
+/home/jannik/Git-master/justice_detection/pos/88.the-deutsche-bank-ag-logo-and-a-few-office-windows-sit-illuminated-at-the-bank-s-headquarters-in-the-financial-district-in-frankfurt-photographer-alex-kraus-bloomberg.jpg 1 297 84 64 46
+/home/jannik/Git-master/justice_detection/pos/89.200814-fr-dbp-3261-6231.jpg 0
+/home/jannik/Git-master/justice_detection/pos/89.e18bed0b-0001-0004-0000-000001341892_w948_r1.77_fpx56_fpy55.jpg 0
+/home/jannik/Git-master/justice_detection/pos/89.lynxnpeg8n1ke_l.jpg 0
+/home/jannik/Git-master/justice_detection/pos/9.deutsche-bank-sign-exterior-2bhkf3m.jpg 0
+/home/jannik/Git-master/justice_detection/pos/90.aachen-germany-circa-august-deutsche-bank-atm-sign-aachen-aug-deutsche-bank-atm-sign-157377652.jpg 1 577 305 549 530
+/home/jannik/Git-master/justice_detection/pos/90.dbeb41ecff1c823954340e0fca7bf9da.jpg 1 102 284 78 78
+/home/jannik/Git-master/justice_detection/pos/90.deutsche-bank-logo-outside-branch-600w-1129609853.jpg 1 120 24 345 330
+/home/jannik/Git-master/justice_detection/pos/91.2019-02-04t133602z_1_lynxnpef1311v_rtroptp_3_usa-trump-deutsche-bank_original.jpg 1 5 122 261 246
+/home/jannik/Git-master/justice_detection/pos/92..jpg 0
+/home/jannik/Git-master/justice_detection/pos/92.hrc_crop.jpg 0
+/home/jannik/Git-master/justice_detection/pos/93.deutsche_bank_deutsche_bank_anamorphosis_entrance.jpg 0
+/home/jannik/Git-master/justice_detection/pos/93.ingolstadt-bavaria-germany-deutsche-bank-banking-sign-ingolstadt-germany-deutsche-bank-banking-sign-ingolstadt-germany-164940389.jpg 0
+/home/jannik/Git-master/justice_detection/pos/93.u-turn.jpg 0
+/home/jannik/Git-master/justice_detection/pos/94.2019-01-04-deutsche-bank1.jpg 0
+/home/jannik/Git-master/justice_detection/pos/94.deutsche-bank-annual-meeting-in-frankfurt-am-main-germany-shutterstock-editorial-10245425aw.jpg 0
+/home/jannik/Git-master/justice_detection/pos/95.35314740.jpg 2 456 24 55 54 51 167 153 137
+/home/jannik/Git-master/justice_detection/pos/95.db_1365x310_flow_notetobanks.jpg 0
+/home/jannik/Git-master/justice_detection/pos/96.sign-stands-outside-the-deutsche-bank-ag-headquarters-in-frankfurt-picture-id1091933240.jpg 1 608 147 122 136
+/home/jannik/Git-master/justice_detection/pos/97.5d275d56a17d6c10cc19db89.jpg 0
+/home/jannik/Git-master/justice_detection/pos/positive_sample.jpg 1 311 314 384 385
